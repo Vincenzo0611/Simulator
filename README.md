@@ -27,7 +27,7 @@ The application features a **graphical user interface (GUI) using Java Swing**, 
 
 1. **Clone or download the repository**
    ```sh
-   git clone [<repository_url>](https://github.com/Vincenzo0611/Simulator.git)
+   git clone https://github.com/Vincenzo0611/Simulator.git
    cd Simulator/src
    ```
 2. **Compile the project**
