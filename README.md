@@ -31,6 +31,11 @@ The application features a **graphical user interface (GUI) using Java Swing**, 
    cd Simulator/src
    ```
 2. **Compile the project**
+   
+   If an error occurs, simply run the same command again.
+   ```sh
+   javac *.java
+   ```
    ```sh
    javac *.java
    ```
